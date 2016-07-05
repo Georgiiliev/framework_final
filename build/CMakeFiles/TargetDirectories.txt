@@ -1,0 +1,8 @@
+/Users/georgi/Documents/workspace/framework/build/CMakeFiles/demo.dir
+/Users/georgi/Documents/workspace/framework/build/CMakeFiles/framework.dir
+/Users/georgi/Documents/workspace/framework/build/CMakeFiles/ALL_BUILD.dir
+/Users/georgi/Documents/workspace/framework/build/CMakeFiles/ZERO_CHECK.dir
+/Users/georgi/Documents/workspace/framework/build/external/CMakeFiles/GLEW_190.dir
+/Users/georgi/Documents/workspace/framework/build/external/glfw-3.0.3/CMakeFiles/ALL_BUILD.dir
+/Users/georgi/Documents/workspace/framework/build/external/glfw-3.0.3/CMakeFiles/ZERO_CHECK.dir
+/Users/georgi/Documents/workspace/framework/build/external/glfw-3.0.3/src/CMakeFiles/GLFW_303.dir
